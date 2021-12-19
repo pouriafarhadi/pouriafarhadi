@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pouriafarhadi
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on application projects
 - 📫 How to reach me pouria.f8410@gmail.com
 
 <!---
