@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pouria Farhadi</h1>
-<h3 align="center">Full-Stack Developer | Python & Cloud Specialist</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="left">
   🔭 Currently building scalable cloud applications at Realtyna using AWS Lambda, Django, PostgreSQL, and React/Next.js<br>
   💡 Passionate about solving complex backend challenges and modernizing legacy codebases<br>
-  👯 Seeking to collaborate on Python/Django projects and open-source initiatives<br>
+  👯 Seeking to collaborate on Python/Django/FastAPI projects and open-source initiatives<br>
   📫 Reach me: <a href="mailto:pouria.f8410@gmail.com">pouria.f8410@gmail.com</a><br>
 </p>
 
